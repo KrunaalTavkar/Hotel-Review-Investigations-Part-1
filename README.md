@@ -1,8 +1,8 @@
 # Hotel-Review-Investigations-Part-1
-Deploying a Naïve Bayes Classifier designed from scratch to investigate and detect Truthfulness or Deceptiveness of Hotel Reviews, using Natural Language Processing
+Deployed a Naïve Bayes Classifier designed from scratch, to investigate and detect Truthfulness or Deceptiveness and Sentiment of Hotel Reviews, using Natural Language Processing.
 
-# Problem Description
-To deploy a Naïve Bayes Classifier (built from the ground up, without using existing libraries) to classify a given Hotel Review as Truthful or Deceptive and also carry out Sentiment Analysis by classifying the Hotel Review as Positive or Negative Sentiment, making use of word tokens as features for classification.
+# Description
+Deployed a Naïve Bayes Classifier (built from the ground up, without using existing libraries) to classify a given Hotel Review as Truthful or Deceptive and also carry out Sentiment Analysis by classifying the Hotel Review as Positive or Negative Sentiment, making use of word tokens as features for classification.
 
 # Model Performance
 Classification Report:
