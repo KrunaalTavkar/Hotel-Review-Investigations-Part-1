@@ -9,12 +9,9 @@ Classification Report:
 
               Precision Recall  F1_Score
     deceptive 0.86      0.90      0.88
-
     truthful  0.90      0.86      0.88
-
     negative  0.96      0.96      0.96
-
     positive  0.96      0.96      0.96
-
+    
     Mean F1: 0.9172
 
